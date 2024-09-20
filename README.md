@@ -1,1 +1,0 @@
-# easydevops-git
